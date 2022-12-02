@@ -1,5 +1,5 @@
 title: YU Wang # your name (or website title) here
-logo: <img src = "C:\\Users\\75925\\OneDrive\\Desktop\\nba.png"/> # your photo (or logo) here
+logo: "C:\\Users\\75925\\OneDrive\\Desktop\\nba.png"?raw=true # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>Hi! My name is Yu Wang <br>
