@@ -1,10 +1,10 @@
 title: YU Wang # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "C:\\Users\\75925\\OneDrive\\Desktop\\nba.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Hi! My name is Yu Wang <br>
   Second description 
-  <br><br>
+  <br> I'm a Upenn student<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
